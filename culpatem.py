@@ -1,0 +1,1 @@
+submit_deauthorize = driver.find_element_by_xpath(SUBMIT_DEAUTORIZE)
